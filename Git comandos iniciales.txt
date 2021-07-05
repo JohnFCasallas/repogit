@@ -1,0 +1,15 @@
+git init - crear repo
+git status - ver estado repo
+git add - agregar cambio del directorio de trabajo en el área de preparación
+git commit - proteger cambios (no subiendo a repo remoto)
+tecla i para comentar.
+para salir darle ESC y luego ":wq"
+
+git commit -m xxxx
+git config --global user.email xxxx
+git config --global user.name xxxx
+git log <- ver información de los commit
+
+git checkout name <- deshacer cambios de archivo name modificado
+git diff name <- muestra en rojo lo que había antes en el archivo name modificado y en verde lo actual
+
