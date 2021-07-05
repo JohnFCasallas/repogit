@@ -13,3 +13,7 @@ git log <- ver información de los commit
 git checkout name <- deshacer cambios de archivo name modificado
 git diff name <- muestra en rojo lo que había antes en el archivo name modificado y en verde lo actual
 
+git branch <- Lista ramas
+git branch nombre <- crea una raba de nombre
+git checkout nombre <- cambiaría a esa rama
+
