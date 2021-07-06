@@ -17,3 +17,7 @@ git branch <- Lista ramas
 git branch nombre <- crea una raba de nombre
 git checkout nombre <- cambiaría a esa rama
 
+git remote add origin http...
+gir remote -v <- Listas
+git push -u origin master <- Enviar cambios a repo remoto
+git clone http <- Crear copia local de repo remoto
